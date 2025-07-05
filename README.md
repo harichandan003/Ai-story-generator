@@ -1,22 +1,19 @@
-# AI Story Generator (OpenRouter API)
+📖 AI Story Generator
+This is a Streamlit-based Generative AI app that generates short stories from prompts using the OpenRouter API.
 
-This is a Streamlit-based web app that generates creative short stories using the OpenRouter API and a large language model (DeepSeek-R1).
+🚀 Features
+Choose genre (Fantasy, Sci-Fi, Mystery, etc.)
+Generate creative short stories
+Download or copy stories
+See history of generated stories
+📦 Tech Stack
+Python
+Streamlit
+OpenRouter API
+ngrok (for public sharing)
+Google Colab (for development)
+🧠 Model
+Uses deepseek/deepseek-r1:free via OpenRouter API for generation.
 
-## Features
-- Enter a prompt and pick a genre
-- Generates a 3-5 paragraph story
-- Story download and history tracking
-- Clean, interactive Streamlit UI
-
-## Setup
-1. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-2. Add your OpenRouter API key to `.streamlit/secrets.toml`
-
-3. Run the app:
-   ```
-   streamlit run app.py
-   ```
+✍️ Made By
+Hari chandan — B.Tech CSE (IOT), VIT Vellore
