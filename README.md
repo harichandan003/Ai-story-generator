@@ -3,9 +3,9 @@ This is a Streamlit-based Generative AI app that generates short stories from pr
 
 🚀 Features
 
- .Choose genre (Fantasy, Sci-Fi, Mystery, etc.)
+ -> Choose genre (Fantasy, Sci-Fi, Mystery, etc.)
  
- .Generate creative short stories
+ -> Generate creative short stories
  
  .Download or copy stories
  
