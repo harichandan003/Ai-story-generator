@@ -7,22 +7,22 @@ This is a Streamlit-based Generative AI app that generates short stories from pr
  
  -> Generate creative short stories
  
- .Download or copy stories
+ -> Download or copy stories
  
- .See history of generated stories
+ -> See history of generated stories
  
 
 📦 Tech Stack
 
- .Python
+ -> Python
  
- .Streamlit
+ -> Streamlit
 
- .OpenRouter API
+ -> OpenRouter API
  
- .ngrok (for public sharing)
+ -> ngrok (for public sharing)
  
- .Google Colab (for development)
+ -> Google Colab (for development)
  
  
 🧠 Model
